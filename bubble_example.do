@@ -15,7 +15,7 @@ bubble hours gdp [aw=pop], by(region) xlog
 
 * full IMF-style chart: custom log ticks, selective labels, quadratic trend
 bubble hours gdp [aw=pop], by(region) mlabel(country) labelif(labelme)  ///
-    xlog xlabels(2 5 10 20 50 100 180) ylabels(0(5)40) trend(qfit)      ///
+    xlog xlabels(2 5 10 20 50 100 180) ylabels(10(5)40) yrange(10 40) trend(qfit) ///
     opacity(50)                                                         ///
     title("Work and wealth")                                           ///
     subtitle("Income explains only a small fraction of working-hours variation") ///
