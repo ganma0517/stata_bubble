@@ -1,0 +1,4 @@
+v 3
+d Stata packages by Wen-Cheng Lin
+d https://github.com/ganma0517/stata_bubble
+p bubble  Weighted bubble / scatter plot in the IMF "Work and wealth" style

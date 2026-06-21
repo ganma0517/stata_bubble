@@ -1,0 +1,29 @@
+country,region,gdp,hours,pop,labelme
+China,East and Southeast Asia,25,31,1412,1
+India,South Asia,12,25,1417,1
+United States,Western Europe and Anglosphere,100,22,333,1
+Germany,Western Europe and Anglosphere,80,17,84,1
+United Kingdom,Western Europe and Anglosphere,70,20,67,1
+Italy,Western Europe and Anglosphere,60,16,59,1
+Mexico,Latin America,30,27,128,1
+Vietnam,East and Southeast Asia,13,32,98,1
+Nigeria,Sub-Saharan Africa,8,30,219,1
+DR Congo,Sub-Saharan Africa,2.5,26,99,1
+Ethiopia,Sub-Saharan Africa,3.5,22,123,1
+Pakistan,South Asia,10,23,235,1
+Turkiye,Middle East and North Africa,40,19,85,1
+Egypt,Middle East and North Africa,18,17,109,1
+Japan,East and Southeast Asia,65,22,125,0
+Indonesia,East and Southeast Asia,14,28,275,0
+Brazil,Latin America,22,24,215,0
+Russia,Eastern Europe and Russia/Central Asia,35,23,144,0
+Poland,Eastern Europe and Russia/Central Asia,45,21,38,0
+France,Western Europe and Anglosphere,65,18,68,0
+South Africa,Sub-Saharan Africa,16,21,60,0
+Kenya,Sub-Saharan Africa,5,28,54,0
+Thailand,East and Southeast Asia,21,27,70,0
+Bangladesh,South Asia,7,24,171,0
+Saudi Arabia,Middle East and North Africa,55,18,36,0
+Argentina,Latin America,28,23,46,0
+Colombia,Latin America,17,26,52,0
+Philippines,East and Southeast Asia,9,29,115,0

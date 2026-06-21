@@ -1,0 +1,19 @@
+v 3
+d bubble: Weighted bubble / scatter plot in the IMF "Work and wealth" style
+d
+d Bubble area proportional to a size weight, bubbles coloured by a group with a
+d legend, optional log axes with custom ticks, selective point labels, a dashed
+d quadratic/linear trend line, and a cross-period small-multiples (panel) mode.
+d
+d Requires: Stata 15 or newer; SSC packages schemepack, grstyle, palettes,
+d colrspace, and grc1leg2 (auto-installed on first use).
+d
+d Author: Wen-Cheng Lin, Academia Sinica
+d Source: https://github.com/ganma0517/stata_bubble
+d
+d Distribution-Date: 20260621
+d
+f bubble.ado
+f bubble.sthlp
+f bubble_demo.dta
+f bubble_panel_demo.dta
