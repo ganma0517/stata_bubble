@@ -26,7 +26,7 @@ local name     country
 local flag     labelme         // 14 countries pre-flagged in the CSV
 local xlog      1
 local xlabs     "2 5 10 20 50 100 180"
-local ylabs     "0(5)40"
+local ylabs     ""              // "" = auto y-axis from data min (clearer proportions)
 local scheme    white_tableau
 local palette   tableau
 local trend     qfit            // rise-then-fall quadratic

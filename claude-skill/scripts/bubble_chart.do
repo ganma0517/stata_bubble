@@ -39,7 +39,7 @@ local flag     labelme                  // 1 = show label, or "" to label none
 * ---- axes ----
 local xlog      1                       // 1 = log x-axis, 0 = linear
 local xlabs     "2 5 10 20 50 100 180"  // x tick positions (in data units)
-local ylabs     "0(5)40"                // y tick spec (numlist)
+local ylabs     ""                      // y tick spec (numlist); "" = auto from data min
 local xtitle    "GDP per adult (thousands of US$, PPP)"
 local ytitle    "Weekly hours worked per adult"
 local title     "Work and wealth"
